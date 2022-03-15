@@ -1,0 +1,10 @@
+C:\Users\Dimon\source\repos\delegaty\bin\Debug\delegaty.exe.config
+C:\Users\Dimon\source\repos\delegaty\bin\Debug\delegaty.exe
+C:\Users\Dimon\source\repos\delegaty\bin\Debug\delegaty.pdb
+C:\Users\Dimon\source\repos\delegaty\obj\Debug\delegaty.Form1.resources
+C:\Users\Dimon\source\repos\delegaty\obj\Debug\delegaty.Properties.Resources.resources
+C:\Users\Dimon\source\repos\delegaty\obj\Debug\delegaty.csproj.GenerateResource.cache
+C:\Users\Dimon\source\repos\delegaty\obj\Debug\delegaty.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\delegaty\obj\Debug\delegaty.exe
+C:\Users\Dimon\source\repos\delegaty\obj\Debug\delegaty.pdb
+C:\Users\Dimon\source\repos\delegaty\obj\Debug\delegaty.csproj.AssemblyReference.cache
